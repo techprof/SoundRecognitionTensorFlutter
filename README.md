@@ -1,6 +1,3 @@
-[![Medium][medium-shield]][medium-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 
 <h1 align="center"> Sound Recognition App</h1> <br>
 <p align="center">Simple Sound recognition application developed in Flutter using Tensorflow Lite framework to integrate a sound classification model</p>
@@ -38,3 +35,4 @@ This [article]explores not only how this app was developed but also how to prepa
 ## Authors
 <a href="https://github.com/techprof/SoundRecognitionTensorFlutter/upload">
   </a>
+Muffaddal K
